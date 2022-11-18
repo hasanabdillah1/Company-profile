@@ -1,7 +1,7 @@
 # Company-profile
 Company profile for photographer which available in videography and also editing.
 
-Tech stach
+Tech stack
 - HTML
 - CSS
 - JS
